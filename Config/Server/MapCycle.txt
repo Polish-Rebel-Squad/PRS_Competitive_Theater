@@ -13,3 +13,5 @@ Scenario_Hideout_Team_Deathmatch
 Scenario_Precinct_Team_Deathmatch
 Scenario_Refinery_Team_Deathmatch
 Scenario_Summit_Team_Deathmatch
+Scenario_Outskirts_Firefight_East
+Scenario_Outskirts_Firefight_West
