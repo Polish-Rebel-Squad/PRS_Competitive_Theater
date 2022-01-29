@@ -1,6 +1,6 @@
 PRS_Competitive_Theater
 
-This setting is made by the Polish Rebel Squad for 5v5 competitive firefight games.
+This config is made by the Polish Rebel Squad for 5v5 competitive firefight games.
 
 https://insurgencysandstorm.mod.io/prsclan-pl
 
