@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+PRS_Competitive_Theater
 
-You can use the [editor on GitHub](https://github.com/Polish-Rebel-Squad/PRS_Competitive_Theater/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This setting is made by the Polish Rebel Squad for 5v5 competitive firefight games.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://insurgencysandstorm.mod.io/prsclan-pl
 
-### Markdown
+There are now 1 Mutator.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    PRS_Firefight (Above Changes)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Test mutator on this server:
 
-- Bulleted
-- List
+[PRS] EU Competitive Sandstorm Server 3 - 109.173.131.231:27102
 
-1. Numbered
-2. List
+[PRS] EU Competitive Sandstorm Server 2 - 77.55.213.166:27102
 
-**Bold** and _Italic_ and `Code` text
+[PRS] EU Competitive Sandstorm Server 1 - 135.125.173.156:27102
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Polish-Rebel-Squad/PRS_Competitive_Theater/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
