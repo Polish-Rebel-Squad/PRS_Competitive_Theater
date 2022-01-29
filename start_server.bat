@@ -1,0 +1,1 @@
+InsurgencyServer.exe Bab?Scenario=Scenario_Bab_Firefight_East?MaxPlayers=12? -Port=27102 -QueryPort=27037 -Mods -log -GameStatsToken= -GSLTToken= -hostname="[PRS] EU Competitive Sandstorm Server 3" -mutators=PRS_Firefight ModDownloadTravelTo=PRS_Guru?Scenario=Firefight_cavar_PRS?Lighting=Day?mutators=PRS_Firefight
