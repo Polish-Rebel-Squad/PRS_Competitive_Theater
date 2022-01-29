@@ -25,3 +25,4 @@
 (Scenario="Scenario_Revolt_Firefight",Lighting="Day")
 (Scenario="Scenario_Station_Firefight",Lighting="Day")
 (Scenario="Scenario_Gap_Firefight",Lighting="Day")
+(Scenario="Firefight_cavar_PRS",Lighting="Day")
