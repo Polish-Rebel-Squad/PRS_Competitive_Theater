@@ -8,6 +8,15 @@ There are now 1 Mutator.
 
     PRS_Firefight (Above Changes)
 
+Mods:
+
+https://insurgencysandstorm.mod.io/cavar1
+
+https://insurgencysandstorm.mod.io/insurgency-2014-map-pack
+
+https://insurgencysandstorm.mod.io/prsclan-pl
+
+https://insurgencysandstorm.mod.io/DistrictR
 
 Test mutator on this server:
 
