@@ -27,3 +27,5 @@
 (Scenario="Scenario_Gap_Firefight",Lighting="Day")
 (Scenario="Firefight_cavar_PRS",Lighting="Day")
 (Scenario="Scenario_DistrictR_Firefight",Lighting=Day")
+(Scenario="Scenario_Prison_Firefight",Lighting="Day")
+(Scenario="Scenario_Factory_FirefightWest",Lighting="Day")
