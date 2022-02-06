@@ -18,10 +18,15 @@ https://insurgencysandstorm.mod.io/prsclan-pl
 
 https://insurgencysandstorm.mod.io/DistrictR
 
+https://insurgencysandstorm.mod.io/prison
+
+https://insurgencysandstorm.mod.io/remote
+
 Test mutator on this server:
+
+[PRS] EU Competitive Sandstorm Server 1 - 135.125.173.156:27102
 
 [PRS] EU Competitive Sandstorm Server 3 - 109.173.131.231:27102
 
-[PRS] EU Competitive Sandstorm Server 2 - 77.55.213.166:27102
 
-[PRS] EU Competitive Sandstorm Server 1 - 135.125.173.156:27102
+
